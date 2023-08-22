@@ -1,0 +1,6 @@
+uvicorn[standard]
+gunicorn
+fastapi
+google-cloud-secret-manager
+openai
+python-multipart
